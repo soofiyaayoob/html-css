@@ -1,0 +1,28 @@
+body{
+    margin: 0%;
+ background-color:rgb(78, 78, 78);;
+}#main{
+    padding-top: 30px;
+    background-color: white;
+    height: 286px;
+    width: 400px;
+    margin-left: 559px;
+    margin-top: 217px;
+
+}
+#form{
+    height: 100px;
+    width: 100px;
+    padding-left: 10px;
+    border-radius: 4px;
+}#book{
+    margin-left: 255px;
+    width: 100px;
+    height: 25px;
+    background-color: rgb(78, 78, 78);
+    margin-top: 80px;
+    color: white;
+    border-radius: 7px;
+}h2{
+    text-align: center;
+}

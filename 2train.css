@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+}#main{
+     background-color:rgb(78, 78, 78);
+    height: 750px;
+    width: 100%;
+    padding-top: 117px;
+/* }#box{
+    background-color:rgb(100, 94, 94);
+    height: 251px;
+    width: 471px; */
+}#table{
+    border-collapse: collapse;
+    width: 920px;
+    height: 490px;
+    padding: 20px;
+    background-color:rgb(100, 94, 94); 
+    color: rgb(220, 211, 211);
+    margin-left: 282px;
+    border: 2px;
+    border: 1px solid rgb(206, 194, 194);
+    border-radius: 23px;
+    text-align: center;
+    
+}#select{
+    height: 55px;
+    width: 179px;
+    margin-left: 990px;
+    background-color:rgb(100, 94, 94);
+    color: white;
+    margin-top: 10px;
+}

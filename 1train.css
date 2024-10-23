@@ -1,0 +1,49 @@
+#main{
+    height: 750px;
+    width: 100%;
+   background-image: url(/pexels-leslie-toh-304133-880929.jpg);
+   background-size: cover;
+   
+    padding-top: 190px;
+        box-sizing: border-box;
+
+}body{
+    margin: 0%;
+}#table{
+    width: 610px;
+    height:380px;
+    background-color:rgb(100, 94, 94);
+    box-sizing: border-box;
+    padding-top: 10px;
+    margin-left: 436px;
+    box-shadow: 2px 2px 7px rgb(104, 101, 101);
+    border-radius:3px ;
+    
+}h2{
+    font-family: "Times New Roman" 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    color: aliceblue;
+
+}.nam{
+    height: 40px;
+    width: 506px;
+    padding-left: 14px;
+    margin-left: 28px;
+   margin-bottom: 12px;
+   border-radius: 7px;
+}#otp{
+    height: 30px;
+    width: 150px;
+    padding-left: 90px;
+    margin-left: 5%;
+    border-radius: 7px;
+
+}#sub{
+    margin-left: 445px;
+    margin-top: 62px;
+    width: 103px;
+    height: 40px;
+    border-radius: 7px;
+    background-color: rgb(71, 70, 70);
+    color: aliceblue;
+}

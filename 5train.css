@@ -1,0 +1,17 @@
+body{
+    margin: 0%;
+    background-color:rgb(78, 78, 78);
+    padding-left: 561px;
+    padding-top: 171px;
+}#main{
+    border-radius: 20px;
+    background-color: white;
+    width: 335px;
+    height: 370px;
+   padding-top: 20px
+
+}#img{
+    margin-left: 40px;
+}.h2{
+    text-align: center;
+}

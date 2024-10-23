@@ -1,0 +1,58 @@
+body{
+    margin: 0%;
+}
+#main{
+    background-color:  rgb(78, 78, 78);
+    height: 750px;
+    width: 100%;
+    
+    padding-top: 134px;
+}#date{
+    margin-left: 10px;
+}
+
+
+
+#top{
+    background-color: rgb(74, 69, 69); 
+    color: white;
+    width: 575px;
+    height: 121px;
+    margin-left: 493px;
+    
+}.coach{
+    width: 126px;
+    height: 27px;
+    border: 1px solid rgb(206, 194, 194);
+    margin-left: 10px;
+}#dest{
+    text-align: center;
+}#form{
+    width: 576px;
+    height: 255px;
+    margin-left: 493px;
+    background-color: rgb(74, 69, 69);
+    
+    margin-bottom: 10px;
+
+}
+.deto{
+    width: 542px;
+    height: 37px;
+    margin-left: 14px;
+    border: 1px solid rgb(206, 194, 194);
+    
+}#payy{
+    width: 200px;
+    height: 53px;
+    margin-left: 867px;
+  
+    background-color: rgb(74, 69, 69);
+    color: whitesmoke;
+}
+
+
+   
+
+
+    
